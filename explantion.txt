@@ -1,0 +1,21 @@
+GraphQL API server with Nest JS 
+
+part 1: 
+1. Project Setup
+2. Initial Resolver
+3. Generate GraphqL schema
+
+part 2:
+1. Database integration with TypeORM
+2. Querying the database
+
+part 3: 
+1. Mutation 
+2. Validation
+3. Auto generate all things
+4. DB relationship
+
+What we'll build:
+- Pet Store API
+- Ability to query all available pets and owner 
+- Ability to insert new pets or owners
